@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: #0a0a0a;
+    background-image: url(./assets/Fondo_SW.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+  }
+  
+  h2 {
+    font-size: 50px;
+    line-height: 1.1;
+    text-align: center;
+  }
+  
+  a {
+    color: white;
+  }
+
+  footer {
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+  
+  input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  button {
+    background-color: #3f3d3d;
+    color: darkgoldenrod;
+
+  }
+
+  .Boton_Ordenar{
+    margin-left: 100px;
+  }
